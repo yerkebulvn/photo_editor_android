@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Just Photo Editor</string>
+    <string name="app_title">РЕДАКТОР\nФОТО</string>
+    <string name="image_saved_in_gallery">фото сохранено в галерее</string>
+</resources>
